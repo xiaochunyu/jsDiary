@@ -8,7 +8,7 @@
 	dx = dc ? dd: db,
 	ec = encodeURIComponent;
 	
-	
+	//同步测试
 	w.CHAT = {
 		msgObj:d.getElementById("message"),
 		screenheight:w.innerHeight ? w.innerHeight : dx.clientHeight,
